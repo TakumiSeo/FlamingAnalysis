@@ -1,0 +1,11 @@
+numpy==1.21.1
+tensorflow==2.7.0
+h5py==2.10.0
+youtokentome==1.0.6
+dash
+mysql-connector-python
+oauthlib
+requests
+requests-oauthlib
+boto3
+emoji
