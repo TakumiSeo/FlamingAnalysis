@@ -1,0 +1,17 @@
+numpy
+dash
+dash_table
+dash-core-components
+dash-html-components
+mysql-connector-python
+pandas
+gunicorn
+click
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+Boto3
+astroid
+
